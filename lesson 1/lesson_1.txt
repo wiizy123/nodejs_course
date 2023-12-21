@@ -1,0 +1,10 @@
+console.log(__dirname)
+
+this is very useful when we want to find the directory path we are using.since sometimes the can be alot of files
+
+
+console.log(__filename)
+this is also useful when we want to find the file path we are using 
+
+to export a single thing we use "export"
+ to export multiple thihgs we use the same export but we put what we want to export in this {};
